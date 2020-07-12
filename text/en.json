@@ -1,0 +1,881 @@
+{
+  "language": "en",
+  "header": [
+    "English",
+    {
+      "modal": "Please wait."
+    }
+  ],
+  "device": {},
+  "inspection": {
+    "sideMenu": {
+      "carText": [
+        {
+          "id": 1,
+          "text": "サイドスリップ検査"
+        },
+        {
+          "id": 2,
+          "text": "スピードメータ検査"
+        },
+        {
+          "id": 3,
+          "text": "ヘッドライト検査"
+        },
+        {
+          "id": 4,
+          "text": "フットブレーキ検査"
+        },
+        {
+          "id": 5,
+          "text": "駐車ブレーキ検査"
+        },
+        {
+          "id": 6,
+          "text": "排気ガス検査"
+        },
+        {
+          "id": 7,
+          "text": "DS・オパシ検査"
+        },
+        {
+          "id": 8,
+          "text": "下回り検査"
+        },
+        {
+          "id": 9,
+          "text": "その他"
+        }
+      ],
+      "trafficText": [
+        {
+          "id": 1,
+          "text": "サイドスリップ検査"
+        },
+        {
+          "id": 2,
+          "text": "ブレーキ検査"
+        },
+        {
+          "id": 3,
+          "text": "スピードメータ検査"
+        },
+        {
+          "id": 4,
+          "text": "ヘッドライト検査"
+        },
+        {
+          "id": 5,
+          "text": "排気ガス検査"
+        },
+        {
+          "id": 6,
+          "text": "DS・オパシ検査"
+        },
+        {
+          "id": 7,
+          "text": "下回り検査"
+        },
+        {
+          "id": 8,
+          "text": "その他"
+        }
+      ],
+      "bikeText": [
+        {
+          "id": 1,
+          "text": "排気ガス検査"
+        },
+        {
+          "id": 2,
+          "text": "ブレーキ検査"
+        },
+        {
+          "id": 3,
+          "text": "スピードメータ検査"
+        },
+        {
+          "id": 4,
+          "text": "ヘッドライト検査"
+        },
+        {
+          "id": 5,
+          "text": "その他"
+        }
+      ]
+    },
+    "mainText": {
+      "carText": [
+        {
+          "id": 1,
+          "list": [
+            "Start to check the sideslip ",
+            "Please go forward slowly.",
+            "The speed was too high, please slow down.",
+            "Let's check the sideslip again.",
+            "Please go back slowly to the place instructed by the Inspector.",
+            "Stop.",
+            "You have passed.",
+            "The side slip check is complete.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "サイドスリップを検査します",
+            "ゆっくり前進してください",
+            "速度オーバーです",
+            "検査をやり直します",
+            "検査官が指示する場所まで、ゆっくり後退してください",
+            "停止してください",
+            "合格です（特例値合格用）",
+            "サイドスリップの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 2,
+          "list": [
+            "Start to check the speedometer.",
+            "Please get on the tester in front.",
+            "Stop.",
+            "Do not apply the parking brake.",
+            "Shift the gear into drive position.",
+            "When the speedometer indicates 40km/h, press the button.",
+            "Slowly press the foot brake, and stop.",
+            "Check the speedometer again.",
+            "The speedometer check is complete.",
+            "Apply the parking brake, and shift the gear into neutral position.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "スピードメータを検査します",
+            "前方のテスタに乗り入れてください",
+            "停止してください",
+            "駐車ブレーキをかけないでください",
+            "ギアをドライブに入れてください",
+            "スピードメーターが40km/hを指した時にボタンを押してください",
+            "フットブレーキをゆっくり踏んで停止してください",
+            "もう一度検査をします",
+            "スピードメータの検査は終了です",
+            "駐車ブレーキをかけ、ギアをニュートラルにしてください",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 3,
+          "list": [
+            "Start to check the headlights.",
+            "Increase speed slowly to 20km/h.",
+            "Slowly press the foot brake, and stop.",
+            "Apply the parking brake, and shift the gear into neutral position.",
+            "Turn on the high beams.",
+            "Turn on the low beams.",
+            "Change the levelizer to 0.",
+            "Please shade  the side light with the cover.",
+            "Turn off the fog lamps.",
+            "Test is now in progress, please wait.",
+            "The headlight check is complete.",
+            "Turn off the headlights.",
+            "Please shift the gear into neutral, and release the parking brake.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "ヘッドライトの検査します",
+            "ゆっくり20km/hまで速度を上げてください",
+            "フットブレーキをゆっくり踏んで停止してください",
+            "駐車ブレーキをかけギアをニュートラルにしてください",
+            "ライトを上向きに点灯してください",
+            "ライトを下向きに点灯してください",
+            "レベライザを「０」に変更してください",
+            "副灯にカバーをかけてください",
+            "フォグランプを消してください",
+            "検査中です、そのままお待ちください",
+            "ヘッドライトの検査は終了です",
+            "ヘッドライトを消してください",
+            "ギアをニュートラルにして、駐車ブレーキをもどしてください",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 4,
+          "list": [
+            "Start to check the foot brake.",
+            "Please shift the gear into neutral position.",
+            "Release the parking brake.",
+            "Release the foot brake.",
+            "Slowly press the foot brake.",
+            "Check the foot brake again.",
+            "The foot brake check is complete."
+          ],
+          "japan": [
+            "フットブレーキを検査します",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキを戻してください",
+            "フットブレーキを離してください",
+            "フットブレーキをゆっくり踏んでください",
+            "もう一度検査をします",
+            "フットブレーキの検査は終了です"
+          ]
+        },
+        {
+          "id": 5,
+          "list": [
+            "Start to check the parking brake.",
+            "Slowly apply the parking brake.",
+            "Do not press the foot brake.",
+            "Return the parking brake.",
+            "Let's check again.",
+            "Please wait as it is.",
+            "The parking brake check is complete.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "駐車ブレーキを検査します",
+            "駐車ブレーキをゆっくりかけてください",
+            "フットブレーキを踏まないでください",
+            "駐車ブレーキを戻してください",
+            "もう一度検査をします",
+            "そのまま待機してください",
+            "駐車ブレーキの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 6,
+          "list": [
+            "Start to check the exhaust.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Please ignition on the engine.",
+            "Shift the gear into neutral position.",
+            "Please apply the parking brake.",
+            "Test mode setting is required, please follow the Inspector's instructions.",
+            "Please get off the car.",
+            "Press the button specified by the Inspector.",
+            "Please insert the probe into the exhaust pipe.",
+            "Please get on the footswitch.",
+            "Please wait as it is.",
+            "The exhaust check is complete.",
+            "Please pull out the probe.",
+            "Record the result.",
+            "Please get in the car."
+          ],
+          "japan": [
+            "排気ガスを検査します",
+            "ゆっくり停止線まで進んで停止してください",
+            "エンジンを始動してください",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキをかけてください",
+            "検査モードの設定が必要なので検査官の指示に従ってください",
+            "車から降りてください",
+            "検査官の指示するボタンを押してください",
+            "プローブをマフラーに挿してください",
+            "フットスイッチに乗ってください",
+            "そのまま待機してください",
+            "排気ガス検査は終了です",
+            "プローブを抜いてください",
+            "記録してください",
+            "車に乗ってください"
+          ]
+        },
+        {
+          "id": 7,
+          "list": [
+            "Start to check for diesel black smoke.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Shift the gear into neutral position.",
+            "Apply the parking brake.",
+            "Stop the engine.",
+            "Please check again whether the gear is in neutral position.",
+            "Please check again whether the parking brake is working.",
+            "Please ignition on the engine.",
+            "Get out of the vehicle.",
+            "Please pass me your application form.",
+            "Let's start the check by inspector.",
+            "Let's operate the accelerator by inspector.",
+            "Let's record the results.",
+            "The diesel black smoke check is complete.",
+            "Please get in the vehicle."
+          ],
+          "japan": [
+            "ディーゼル黒煙を検査します",
+            "ゆっくり停止線まで進んで停止してください",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキをかけてください",
+            "エンジンを止めてください",
+            "ギアがニュートラルになっているか再確認してください",
+            "駐車ブレーキが作動しているか再確認してください",
+            "エンジンを始動してください",
+            "車から降りてください",
+            "申請書類を渡してください",
+            "検査を始めます",
+            "アクセルを操作します",
+            "検査結果を記録します。",
+            "ディーゼル黒煙の検査は終了です",
+            "車に乗ってください"
+          ]
+        },
+        {
+          "id": 8,
+          "list": [
+            "Start to check underneath.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Turn the steering wheel to the left and right.",
+            "Take your hands off the steering wheel.",
+            "Stop the engine.",
+            "Press the foot brake.",
+            "Release the foot brake.",
+            "Apply the parking brake.",
+            "Release the parking brake.",
+            "Please ignition on the engine.",
+            "The underneath check is complete.",
+            "Please  go forward and record the results."
+          ],
+          "japan": [
+            "下回り検査をします",
+            "ゆっくり前進して停止線で停止してください",
+            "ハンドルを左右に動かしてください",
+            "ハンドルから手を離してください",
+            "エンジンを止めてください",
+            "フットブレーキを踏んでください",
+            "フットブレーキを離してください",
+            "駐車ブレーキをかけてください",
+            "駐車ブレーキを戻してください",
+            "エンジンをかけてください",
+            "下回りの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 9,
+          "list": [
+            "Please open the driver's seat window.",
+            "Please show your application form to the inspector.",
+            "Please go forward to the Overall Judgment Room.",
+            "This vehicle cannot be checked on this course.",
+            "Line up on the course specified by the Inspector."
+          ],
+          "japan": [
+            "運転者席の窓を開けてください",
+            "申請書類を確認します",
+            "総合判定室まで進んでください",
+            "この車はこのコースで検査はできません",
+            "検査官が指示するコースにお並びください"
+          ]
+        }
+      ],
+      "trafficText": [
+        {
+          "id": 1,
+          "list": [
+            "Start to check the sideslip ",
+            "Please go forward slowly.",
+            "The speed was too high, please slow down.",
+            "Let's check the sideslip again.",
+            "Please go back slowly to the place instructed by the Inspector.",
+            "Stop.",
+            "You have passed.",
+            "The side slip check is complete.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "サイドスリップを検査します",
+            "ゆっくり前進してください",
+            "速度オーバーです",
+            "検査をやり直します",
+            "検査官が指示する場所まで、ゆっくり後退してください",
+            "停止してください",
+            "合格です（特例値合格用）",
+            "サイドスリップの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 2,
+          "list": [
+            "Start to check the speedometer.",
+            "Please get on the tester in front.",
+            "Stop.",
+            "Do not apply the parking brake.",
+            "Shift the gear into drive position.",
+            "When the speedometer indicates 40km/h, press the button.",
+            "Slowly press the foot brake, and stop.",
+            "Check the speedometer again.",
+            "The speedometer check is complete.",
+            "Apply the parking brake, and shift the gear into neutral position.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "スピードメータを検査します",
+            "前方のテスタに乗り入れてください",
+            "停止してください",
+            "駐車ブレーキをかけないでください",
+            "ギアをドライブに入れてください",
+            "スピードメーターが40km/hを指した時にボタンを押してください",
+            "フットブレーキをゆっくり踏んで停止してください",
+            "もう一度検査をします",
+            "スピードメータの検査は終了です",
+            "駐車ブレーキをかけ、ギアをニュートラルにしてください",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 3,
+          "list": [
+            "Start to check the headlights.",
+            "Increase speed slowly to 20km/h.",
+            "Slowly press the foot brake, and stop.",
+            "Apply the parking brake, and shift the gear into neutral position.",
+            "Turn on the high beams.",
+            "Turn on the low beams.",
+            "Change the levelizer to 0.",
+            "Please shade  the side light with the cover.",
+            "Turn off the fog lamps.",
+            "Test is now in progress, please wait.",
+            "The headlight check is complete.",
+            "Turn off the headlights.",
+            "Please shift the gear into neutral, and release the parking brake.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "ヘッドライトの検査します",
+            "ゆっくり20km/hまで速度を上げてください",
+            "フットブレーキをゆっくり踏んで停止してください",
+            "駐車ブレーキをかけギアをニュートラルにしてください",
+            "ライトを上向きに点灯してください",
+            "ライトを下向きに点灯してください",
+            "レベライザを「０」に変更してください",
+            "副灯にカバーをかけてください",
+            "フォグランプを消してください",
+            "検査中です、そのままお待ちください",
+            "ヘッドライトの検査は終了です",
+            "ヘッドライトを消してください",
+            "ギアをニュートラルにして、駐車ブレーキをもどしてください",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 4,
+          "list": [
+            "Start to check the foot brake.",
+            "Please shift the gear into neutral position.",
+            "Release the parking brake.",
+            "Release the foot brake.",
+            "Slowly press the foot brake.",
+            "Check the foot brake again.",
+            "The foot brake check is complete."
+          ],
+          "japan": [
+            "フットブレーキを検査します",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキを戻してください",
+            "フットブレーキを離してください",
+            "フットブレーキをゆっくり踏んでください",
+            "もう一度検査をします",
+            "フットブレーキの検査は終了です"
+          ]
+        },
+        {
+          "id": 5,
+          "list": [
+            "Start to check the parking brake.",
+            "Slowly apply the parking brake.",
+            "Do not press the foot brake.",
+            "Return the parking brake.",
+            "Let's check again.",
+            "Please wait as it is.",
+            "The parking brake check is complete.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "駐車ブレーキを検査します",
+            "駐車ブレーキをゆっくりかけてください",
+            "フットブレーキを踏まないでください",
+            "駐車ブレーキを戻してください",
+            "もう一度検査をします",
+            "そのまま待機してください",
+            "駐車ブレーキの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 6,
+          "list": [
+            "Start to check the exhaust.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Please ignition on the engine.",
+            "Shift the gear into neutral position.",
+            "Please apply the parking brake.",
+            "Test mode setting is required, please follow the Inspector's instructions.",
+            "Please get off the car.",
+            "Press the button specified by the Inspector.",
+            "Please insert the probe into the exhaust pipe.",
+            "Please get on the footswitch.",
+            "Please wait as it is.",
+            "The exhaust check is complete.",
+            "Please pull out the probe.",
+            "Record the result.",
+            "Please get in the car."
+          ],
+          "japan": [
+            "排気ガスを検査します",
+            "ゆっくり停止線まで進んで停止してください",
+            "エンジンを始動してください",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキをかけてください",
+            "検査モードの設定が必要なので検査官の指示に従ってください",
+            "車から降りてください",
+            "検査官の指示するボタンを押してください",
+            "プローブをマフラーに挿してください",
+            "フットスイッチに乗ってください",
+            "そのまま待機してください",
+            "排気ガス検査は終了です",
+            "プローブを抜いてください",
+            "記録してください",
+            "車に乗ってください"
+          ]
+        },
+        {
+          "id": 7,
+          "list": [
+            "Start to check for diesel black smoke.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Shift the gear into neutral position.",
+            "Apply the parking brake.",
+            "Stop the engine.",
+            "Please check again whether the gear is in neutral position.",
+            "Please check again whether the parking brake is working.",
+            "Please ignition on the engine.",
+            "Get out of the vehicle.",
+            "Please pass me your application form.",
+            "Let's start the check by inspector.",
+            "Let's operate the accelerator by inspector.",
+            "Let's record the results.",
+            "The diesel black smoke check is complete.",
+            "Please get in the vehicle."
+          ],
+          "japan": [
+            "ディーゼル黒煙を検査します",
+            "ゆっくり停止線まで進んで停止してください",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキをかけてください",
+            "エンジンを止めてください",
+            "ギアがニュートラルになっているか再確認してください",
+            "駐車ブレーキが作動しているか再確認してください",
+            "エンジンを始動してください",
+            "車から降りてください",
+            "申請書類を渡してください",
+            "検査を始めます",
+            "アクセルを操作します",
+            "検査結果を記録します。",
+            "ディーゼル黒煙の検査は終了です",
+            "車に乗ってください"
+          ]
+        },
+        {
+          "id": 8,
+          "list": [
+            "Start to check underneath.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Turn the steering wheel to the left and right.",
+            "Take your hands off the steering wheel.",
+            "Stop the engine.",
+            "Press the foot brake.",
+            "Release the foot brake.",
+            "Apply the parking brake.",
+            "Release the parking brake.",
+            "Please ignition on the engine.",
+            "The underneath check is complete.",
+            "Please  go forward and record the results."
+          ],
+          "japan": [
+            "下回り検査をします",
+            "ゆっくり前進して停止線で停止してください",
+            "ハンドルを左右に動かしてください",
+            "ハンドルから手を離してください",
+            "エンジンを止めてください",
+            "フットブレーキを踏んでください",
+            "フットブレーキを離してください",
+            "駐車ブレーキをかけてください",
+            "駐車ブレーキを戻してください",
+            "エンジンをかけてください",
+            "下回りの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 9,
+          "list": [
+            "Please open the driver's seat window.",
+            "Please show your application form to the inspector.",
+            "Please go forward to the Overall Judgment Room.",
+            "This vehicle cannot be checked on this course.",
+            "Line up on the course specified by the Inspector."
+          ],
+          "japan": [
+            "運転者席の窓を開けてください",
+            "申請書類を確認します",
+            "総合判定室まで進んでください",
+            "この車はこのコースで検査はできません",
+            "検査官が指示するコースにお並びください"
+          ]
+        }
+      ],
+      "bikeText": [
+        {
+          "id": 1,
+          "list": [
+            "Start to check the sideslip ",
+            "Please go forward slowly.",
+            "The speed was too high, please slow down.",
+            "Let's check the sideslip again.",
+            "Please go back slowly to the place instructed by the Inspector.",
+            "Stop.",
+            "You have passed.",
+            "The side slip check is complete.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "サイドスリップを検査します",
+            "ゆっくり前進してください",
+            "速度オーバーです",
+            "検査をやり直します",
+            "検査官が指示する場所まで、ゆっくり後退してください",
+            "停止してください",
+            "合格です（特例値合格用）",
+            "サイドスリップの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 2,
+          "list": [
+            "Start to check the speedometer.",
+            "Please get on the tester in front.",
+            "Stop.",
+            "Do not apply the parking brake.",
+            "Shift the gear into drive position.",
+            "When the speedometer indicates 40km/h, press the button.",
+            "Slowly press the foot brake, and stop.",
+            "Check the speedometer again.",
+            "The speedometer check is complete.",
+            "Apply the parking brake, and shift the gear into neutral position.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "スピードメータを検査します",
+            "前方のテスタに乗り入れてください",
+            "停止してください",
+            "駐車ブレーキをかけないでください",
+            "ギアをドライブに入れてください",
+            "スピードメーターが40km/hを指した時にボタンを押してください",
+            "フットブレーキをゆっくり踏んで停止してください",
+            "もう一度検査をします",
+            "スピードメータの検査は終了です",
+            "駐車ブレーキをかけ、ギアをニュートラルにしてください",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 3,
+          "list": [
+            "Start to check the headlights.",
+            "Increase speed slowly to 20km/h.",
+            "Slowly press the foot brake, and stop.",
+            "Apply the parking brake, and shift the gear into neutral position.",
+            "Turn on the high beams.",
+            "Turn on the low beams.",
+            "Change the levelizer to 0.",
+            "Please shade  the side light with the cover.",
+            "Turn off the fog lamps.",
+            "Test is now in progress, please wait.",
+            "The headlight check is complete.",
+            "Turn off the headlights.",
+            "Please shift the gear into neutral, and release the parking brake.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "ヘッドライトの検査します",
+            "ゆっくり20km/hまで速度を上げてください",
+            "フットブレーキをゆっくり踏んで停止してください",
+            "駐車ブレーキをかけギアをニュートラルにしてください",
+            "ライトを上向きに点灯してください",
+            "ライトを下向きに点灯してください",
+            "レベライザを「０」に変更してください",
+            "副灯にカバーをかけてください",
+            "フォグランプを消してください",
+            "検査中です、そのままお待ちください",
+            "ヘッドライトの検査は終了です",
+            "ヘッドライトを消してください",
+            "ギアをニュートラルにして、駐車ブレーキをもどしてください",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 4,
+          "list": [
+            "Start to check the foot brake.",
+            "Please shift the gear into neutral position.",
+            "Release the parking brake.",
+            "Release the foot brake.",
+            "Slowly press the foot brake.",
+            "Check the foot brake again.",
+            "The foot brake check is complete."
+          ],
+          "japan": [
+            "フットブレーキを検査します",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキを戻してください",
+            "フットブレーキを離してください",
+            "フットブレーキをゆっくり踏んでください",
+            "もう一度検査をします",
+            "フットブレーキの検査は終了です"
+          ]
+        },
+        {
+          "id": 5,
+          "list": [
+            "Start to check the parking brake.",
+            "Slowly apply the parking brake.",
+            "Do not press the foot brake.",
+            "Return the parking brake.",
+            "Let's check again.",
+            "Please wait as it is.",
+            "The parking brake check is complete.",
+            "Please go forward and record the results."
+          ],
+          "japan": [
+            "駐車ブレーキを検査します",
+            "駐車ブレーキをゆっくりかけてください",
+            "フットブレーキを踏まないでください",
+            "駐車ブレーキを戻してください",
+            "もう一度検査をします",
+            "そのまま待機してください",
+            "駐車ブレーキの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 6,
+          "list": [
+            "Start to check the exhaust.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Please ignition on the engine.",
+            "Shift the gear into neutral position.",
+            "Please apply the parking brake.",
+            "Test mode setting is required, please follow the Inspector's instructions.",
+            "Please get off the car.",
+            "Press the button specified by the Inspector.",
+            "Please insert the probe into the exhaust pipe.",
+            "Please get on the footswitch.",
+            "Please wait as it is.",
+            "The exhaust check is complete.",
+            "Please pull out the probe.",
+            "Record the result.",
+            "Please get in the car."
+          ],
+          "japan": [
+            "排気ガスを検査します",
+            "ゆっくり停止線まで進んで停止してください",
+            "エンジンを始動してください",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキをかけてください",
+            "検査モードの設定が必要なので検査官の指示に従ってください",
+            "車から降りてください",
+            "検査官の指示するボタンを押してください",
+            "プローブをマフラーに挿してください",
+            "フットスイッチに乗ってください",
+            "そのまま待機してください",
+            "排気ガス検査は終了です",
+            "プローブを抜いてください",
+            "記録してください",
+            "車に乗ってください"
+          ]
+        },
+        {
+          "id": 7,
+          "list": [
+            "Start to check for diesel black smoke.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Shift the gear into neutral position.",
+            "Apply the parking brake.",
+            "Stop the engine.",
+            "Please check again whether the gear is in neutral position.",
+            "Please check again whether the parking brake is working.",
+            "Please ignition on the engine.",
+            "Get out of the vehicle.",
+            "Please pass me your application form.",
+            "Let's start the check by inspector.",
+            "Let's operate the accelerator by inspector.",
+            "Let's record the results.",
+            "The diesel black smoke check is complete.",
+            "Please get in the vehicle."
+          ],
+          "japan": [
+            "ディーゼル黒煙を検査します",
+            "ゆっくり停止線まで進んで停止してください",
+            "ギアをニュートラルにしてください",
+            "駐車ブレーキをかけてください",
+            "エンジンを止めてください",
+            "ギアがニュートラルになっているか再確認してください",
+            "駐車ブレーキが作動しているか再確認してください",
+            "エンジンを始動してください",
+            "車から降りてください",
+            "申請書類を渡してください",
+            "検査を始めます",
+            "アクセルを操作します",
+            "検査結果を記録します。",
+            "ディーゼル黒煙の検査は終了です",
+            "車に乗ってください"
+          ]
+        },
+        {
+          "id": 8,
+          "list": [
+            "Start to check underneath.",
+            "Please go forward slowly to the STOP line, and stop.",
+            "Turn the steering wheel to the left and right.",
+            "Take your hands off the steering wheel.",
+            "Stop the engine.",
+            "Press the foot brake.",
+            "Release the foot brake.",
+            "Apply the parking brake.",
+            "Release the parking brake.",
+            "Please ignition on the engine.",
+            "The underneath check is complete.",
+            "Please  go forward and record the results."
+          ],
+          "japan": [
+            "下回り検査をします",
+            "ゆっくり前進して停止線で停止してください",
+            "ハンドルを左右に動かしてください",
+            "ハンドルから手を離してください",
+            "エンジンを止めてください",
+            "フットブレーキを踏んでください",
+            "フットブレーキを離してください",
+            "駐車ブレーキをかけてください",
+            "駐車ブレーキを戻してください",
+            "エンジンをかけてください",
+            "下回りの検査は終了です",
+            "前進して記録してください"
+          ]
+        },
+        {
+          "id": 9,
+          "list": [
+            "Please open the driver's seat window.",
+            "Please show your application form to the inspector.",
+            "Please go forward to the Overall Judgment Room.",
+            "This vehicle cannot be checked on this course.",
+            "Line up on the course specified by the Inspector."
+          ],
+          "japan": [
+            "運転者席の窓を開けてください",
+            "申請書類を確認します",
+            "総合判定室まで進んでください",
+            "この車はこのコースで検査はできません",
+            "検査官が指示するコースにお並びください"
+          ]
+        }
+      ]
+    }
+  }
+}
