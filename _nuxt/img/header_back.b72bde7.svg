@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="138" viewBox="0 0 138 138">
+  <defs>
+    <filter id="長方形_411" x="0" y="0" width="138" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="コンポーネント_13_5" data-name="コンポーネント 13 – 5" transform="translate(9 3)">
+    <g transform="matrix(1, 0, 0, 1, -9, -3)" filter="url(#長方形_411)">
+      <g id="長方形_411-2" data-name="長方形 411" transform="translate(9 3)" fill="#afafaf" stroke="#fff" stroke-width="6">
+        <rect width="120" height="120" rx="60" stroke="none"/>
+        <rect x="3" y="3" width="114" height="114" rx="57" fill="none"/>
+      </g>
+    </g>
+    <g id="グループ_59" data-name="グループ 59" transform="translate(-219.178 -67)">
+      <path id="パス_89" data-name="パス 89" d="M290.234,157.5H262.42V146.217h27.814a14.755,14.755,0,1,0,0-29.511H262.42V105.423h27.814a26.039,26.039,0,1,1,0,52.077Z" fill="#fff"/>
+      <g id="グループ_59-2" data-name="グループ 59">
+        <path id="パス_90" data-name="パス 90" d="M266.536,125.13l-24.357-14.064L266.536,97Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
